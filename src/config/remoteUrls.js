@@ -1,0 +1,1 @@
+export const DISHES_API = "http://temp.dash.zeta.in/food.php";
